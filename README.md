@@ -7,7 +7,7 @@
 - 💬 Ask me about work I've done in JavaScript, Elixir, Laravel, Express, .NET, React, TypeScript or something unrelated like Japan
 - 📫 How to reach me: anthonytaverasdeveloper@gmail.com
 - 😄 Pronouns: Super and Man
-- ⚡ Fun fact: Godzilla has a birthday... He's also a dad... a dadosaur...
+- ⚡ Fun fact: Godzilla has a birthday... He's also a dad... a dadzilla...
 <!--
 **command76/command76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
